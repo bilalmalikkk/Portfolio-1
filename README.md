@@ -16,5 +16,5 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 ## How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Portfolio-1/portfolio.git
    cd portfolio
