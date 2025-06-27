@@ -18,3 +18,6 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
    ```bash
    git clone https://github.com/bilalmalikkk/Portfolio-1.git
    cd portfolio
+
+   ## How to access on your browser
+2. https://bilalmalikkk.github.io/Portfolio-1/
